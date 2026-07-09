@@ -2,6 +2,15 @@
 
 This page contains notes primarily from Adrian Cantrill’s [AWS Solutions Architect - Associate (SAA-C03)](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03). These notes should enable you to answer most, if not all, of the questions you may encounter in the exam.
 
+## Table of Contents
+
+- [Accounts and IAM Basics](#-accounts---identity-and-access-management-iam-basics)
+- [Cloud Computing Fundamentals](#cloud-computing-fundamentals)
+- [AWS Fundamentals](#-aws-fundamentals)
+- [Simple Storage Service (S3)](#-simple-storage-service-s3)
+- [Virtual Private Cloud (VPC)](#-virtual-private-cloud-vpc)
+- [Elastic Compute Cloud (EC2)](#-elastic-compute-cloud-ec2-basics)
+- [IAM, Accounts, and AWS Organizations](#-iam-account-and-aws-organizations)
 
 ### Additional Material:
 
